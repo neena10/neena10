@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently studying Computer Science
+I am currently studying Computer Science at Leeds Beckett University.
 <!--
 **neena10/neena10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
